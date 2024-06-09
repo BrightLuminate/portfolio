@@ -15,7 +15,7 @@ const Home = () => {
           <div className="text-center xl:text-left order-2 xl:order-none">
             <span className="text-xl"> 소프트웨어 개발자</span>
             <h1 className="h1 mb-6">
-              안녕하세요.저는<br /> <span className="text-accent">최도현입니다.</span>
+              안녕하세요.<br /> <span className="text-accent">최도현입니다.</span>
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
             저는 새로운 도전을 좋아하고 끊임없이 변화하는 기술 세계에서 배우고 성장하기 위해 항상 노력하고 있습니다. 
