@@ -3,7 +3,7 @@ import {animate, motion } from "framer-motion";
 // variants
 const stairAnimation = {
     initial: {
-        top: "-100%",
+        top: "0%",
     },
     animate: {
         top: "100%",
