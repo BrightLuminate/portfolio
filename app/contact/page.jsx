@@ -20,7 +20,7 @@ const info = [
   {
     icon: <FaPhoneAlt />,
     title: "전화",
-    description: "(+82) 10 8947 9352",
+    description: "(+82) ",
   },
   {
     icon: <FaEnvelope />,
