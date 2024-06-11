@@ -3,7 +3,7 @@ import {animate, motion } from "framer-motion";
 // variants
 const stairAnimation = {
     initial: {
-        top: "0%",
+        top: "100%",
     },
     animate: {
         top: ["100%","0%"],
@@ -15,7 +15,7 @@ const stairAnimation = {
  
 const reverseIndex = (index) => {
  const totalSteps = 6; // number of steps
- return totalSteps - index - 1
+ return totalSteps - index - 1;
 }
 
 
