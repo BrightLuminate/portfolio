@@ -34,7 +34,7 @@ const about = {
     },
     {
       fieldName: "휴대폰:", // Phone
-      fieldValue: " (+82) 10 8947 9352",
+      fieldValue: " (+82) ",
     },
     {
       fieldName: "경험:", //Experience
