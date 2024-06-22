@@ -29,7 +29,7 @@ const projects = [
     로그인 회원가입 비밀번호찾기 회원목록 이용한 카톡 메신저로 다양한 강아지 친구 와 대화 할 수 있는 시스템 구축 ",
     stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "Javascript" }, { name: "flask" },
     { name: "C 언어" }],
-    image: "/assets/sos.png",
+    image: "/assets/work/sos.png",
     live: "", // Add valid URL if available
     github: "", // Add valid URL if available
   },
