@@ -25,6 +25,19 @@ const projects = [
     category: '프론트엔드',
     title: 'Project 1',
     description: 
+    "강아지의 관련 메신저 웹사이트를 제작하게 되었습니다.\
+    로그인 회원가입 비밀번호찾기 회원목록 이용한 카톡 메신저로 다양한 강아지 친구 와 대화 할 수 있는 시스템 구축 ",
+    stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "Javascript" }, { name: "flask" },
+    { name: "C 언어" }],
+    image: "/assets/sos.png",
+    live: "", // Add valid URL if available
+    github: "", // Add valid URL if available
+  },
+  {
+    num: '02',
+    category: '프론트엔드',
+    title: 'Project 1',
+    description: 
     "프로젝트를 통해 Flask를 활용한 로그인 로그아웃으로 통해 영상 포트폴리오를 웹 사이트를 제작 하게 되었습니다.\
     웹 개발의 모든 과정을 직접 담당을 하며, 기획, 디자인, 콘텐츠 제작, 프론트엔드 및 백엔드 개발, 테스트, 배포까지 진행 했습니다.",
     stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "Javascript" }, { name: "flask" }],
@@ -33,7 +46,7 @@ const projects = [
     github: "", // Add valid URL if available
   },
   {
-    num: '02',
+    num: '03',
     category: '프론트엔드',
     title: 'Project 2',
     description: 
